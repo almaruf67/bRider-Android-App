@@ -4,7 +4,7 @@ bRider is a bus seat reservation application by selecting the source to
 destination route in appropriate timing with the facility of online payment.
 
 Functionality:
-*Seat Reservation
+* Seat Reservation
 * e-Payment
 * e-ticket
 
